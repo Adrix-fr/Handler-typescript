@@ -2,7 +2,7 @@
 
 #### Première étape :
 
-Crée un fichier `.env` (dans la racine !) et mettre le [Token](https://discord.com/developers) de votre bot discord, puis identifiant du serveur
+Crée un fichier `.env` (dans la racine !) et mettre le [Token](https://discord.com/developers) de votre bot discord, puis l'identifiant du serveur
 ```env
 botToken=TOKEN DU BOT
 guildId=IDENTIFIANT DU SERVEUR
