@@ -2,11 +2,10 @@
 
 #### Première étape :
 
-Crée un fichier `.env` (dans la racine !) et mettre le [Token](https://discord.com/developers) de votre bot discord, puis identifiant du serveur puis l'environment que tu peux trouver dans le fichier `environment.d.ts` 
+Crée un fichier `.env` (dans la racine !) et mettre le [Token](https://discord.com/developers) de votre bot discord, puis identifiant du serveur
 ```env
 botToken=TOKEN DU BOT
 guildId=IDENTIFIANT DU SERVEUR
-environment=dev
 ```
 
 ### Run
